@@ -1,6 +1,6 @@
 [Erdős Institute Deep Learning Boot Camp](https://www.erdosinstitute.org/programs/fall-2025/deep-learning-boot-camp), Fall 2025.
 
-- View our 5 mins [presentation](will update this later once we have link)
+- View our 5 mins [presentation](https://www.erdosinstitute.org/project-database/fall-2025/deep-learning-boot-camp/fraud-detection-using-generative-ai)
 - PS: For the transformer we tried two schedulers, but in the 5 mins presentation, specifically on slide 4, the chosen scheduler is ReduceLROnPlateau and not Warm-up + Cosine Decay. 
 
 
